@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91071116972",
+    "project_id": "agros-369718",
+    "storage_bucket": "agros-369718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91071116972:android:8bdab437c48261646d9109",
+        "android_client_info": {
+          "package_name": "com.example.agros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91071116972-8gf3ujmh34f67g8n3uqebkqlp7fclj90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agros",
+            "certificate_hash": "0e7a47d05a0f28e05aa2ec8c222dc1ebde762f20"
+          }
+        },
+        {
+          "client_id": "91071116972-t63i9q3atsvmcgl6fmt7vtk51df7g3sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6WsFNaspoGPCfBYKN_HeRIc2-JZKK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91071116972-t63i9q3atsvmcgl6fmt7vtk51df7g3sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
